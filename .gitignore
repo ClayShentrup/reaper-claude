@@ -1,0 +1,10 @@
+# Transient files from the polling bridge
+req.lua
+res.txt
+
+# rs scratch files
+tmp_*.lua
+tmp_*_result.txt
+tmp_*_user.lua
+
+.DS_Store
